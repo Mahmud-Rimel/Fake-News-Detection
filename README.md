@@ -11,6 +11,8 @@ The motivation of this project is to differentiate between Fake news and Real ne
 - **Building machine learning classifiers**
 - **Evaluation of the results**
 
+**Data Source:* [Data](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view)
+
 ### **Tokenization**
 
 Tokenization is a technique to separating a piece of text into small units. A text may contain a huge number of words, sentences. Tokenization creates a list of words in the text. For example:  ' I am writing a markdown file.' --> ['I', 'am', 'writing','a', 'markdown','file.']
