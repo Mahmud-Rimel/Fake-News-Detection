@@ -4,12 +4,12 @@ The motivation of this project is to differentiate between Fake news and Real ne
 
 ## Workflow of the study
 - **Removing Punctuation** 
-- Tokenization
-- Stopwords
-- Stemming
-- Feature Extraction
-- Building machine learning classifiers
-- Evaluation of the results
+- **Tokenization**
+- **Stopwords**
+- **Stemming**
+- **Feature Extraction**
+- **Building machine learning classifiers**
+- **Evaluation of the results**
 
 **Tokenization**
 
