@@ -27,3 +27,11 @@ For example, plays, playing, played -- > play
 
 Term frequency and inverse document frequency is a vectorization technique to show the importance of a word in a text, based on its frequency and weight of the word.
 
+### Evaluation Metrics
+
+**Precision:** (News predicted as fake that are actually fake)/Total predicted fake news
+
+**Recall:** (News predicted as fake that are actually fake)/Total number of fake news that are actually fake
+
+**Accuracy:** Predicted correctly/Total number of news
+
