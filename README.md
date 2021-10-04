@@ -13,7 +13,7 @@ The motivation of this project is to differentiate between Fake news and Real ne
 
 ### **Tokenization**
 
-Tokenization is a technique to break the wordr of text. A text may contain with a huge number of words, sentences. Tokenization creates a list of words in the text.
+Tokenization is a technique to separating a piece of texts in small units. A text may contain with a huge number of words, sentences. Tokenization creates a list of words in the text. For example:  ' I am writing a markdown file.' --> ['I', 'am', 'writing','a', 'markdown','file]
 
 ### **Stopwords**
 
@@ -26,5 +26,5 @@ For example :plays, playing, played -- > play
 
 ## TF-IDF (Term Frequency - Inverse Document Frequency)
 
-Term frequency and inverse document frequency is vectorization technique to show the importance of an word in the text based on its frequency and weight.
+Term frequency and inverse document frequency is vectorization technique to show the importance of an word in a text based on  frequency and weight of th word.
 
