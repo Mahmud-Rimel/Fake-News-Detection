@@ -12,8 +12,6 @@ The motivation of this project is to differentiate between Fake news and Real ne
 - **Evaluation of the results**
 
 
-<u> **Data Source:** </u>
-
 **Data Source:** [Data](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view)
 
 ### **Tokenization**
