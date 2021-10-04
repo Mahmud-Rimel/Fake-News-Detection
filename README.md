@@ -12,6 +12,7 @@ The motivation of this project is to differentiate between Fake news and Real ne
 - Evaluation of the results
 
 **Tokenization**
+
 Tokenization is a technique to break the wordr of text. A text may contain with a huge number of words, sentences. Tokenization creates a list of words in the text.
 
 **Stopwords**
