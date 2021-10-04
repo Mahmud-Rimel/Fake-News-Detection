@@ -24,4 +24,7 @@ Stopwords are words which has little value in a text/very common in a text.For e
 Stemming is a technique to reduce the abundant of a words from text. Stemming removes the suffixes of words and return a base form of the word. 
 For example :plays, playing, played -- > play
 
+## TF-IDF (Term Frequency - Inverse Document Frequency)
+
+Term frequency and inverse document frequency is vectorization technique to show the importance of an word in the text based on its frequency and weight.
 
