@@ -17,9 +17,11 @@ Tokenization is a technique to break the wordr of text. A text may contain with 
 
 ### **Stopwords**
 
-Stopwords are words which has little value in a text/very common in a text.
+Stopwords are words which has little value in a text/very common in a text.For example, in English language stopwords are 'I, am, is, are, he, she, my, to , for, was' etc.
 
 ### **Stemming**
 
-Stemming is a technique to reduce the abundant of a word. Stemming removes the suffixes of words and return a base form of the word
+Stemming is a technique to reduce the abundant of a words from text. Stemming removes the suffixes of words and return a base form of the word. 
+For example :plays, playing, played -- > play
+
 
