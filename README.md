@@ -8,5 +8,5 @@ The motivation of this project is to differentiate between Fake news and Real ne
 - Stopwords
 - Lammentization
 - Feature Extraction
-- Applying different Machine Learning algorithms
+- Building machine learning classifiers
 - Evaluation of the results
